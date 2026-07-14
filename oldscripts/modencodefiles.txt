@@ -1,0 +1,9 @@
+FileName	Sample	error_message
+H3K27me3	ftp://data.modencode.org/all_files/cele-signal-1/2400_HK00013_H3K27ME31E7_N2_L3_1.wig.gz	Overlap on I between items starting at 3695 and 3707. Please remove overlaps and try again
+H3K9me3	ftp://data.modencode.org/all_files/cele-signal-1/2398_HK00009_H3K9ME32F3_N2_L3_1.wig.gz	Overlap on I between items starting at 3695 and 3707. Please remove overlaps and try again
+H3k9me2	ftp://data.modencode.org/all_files/cele-signal-1/2406_HK00008_H3K9ME26D11_N2_L3_1.wig.gz	Overlap on I between items starting at 3695 and 3707. Please remove overlaps and try again
+h3k4me2	ftp://data.modencode.org/all_files/cele-signal-1/2402_WA30834809_H3K4ME2_N2_L3_1.wig.gz	Overlap on I between items starting at 3695 and 3707. Please remove overlaps and try again
+H3	ftp://data.modencode.org/all_files/cele-interpreted-1/3562_seq-AB1791_H3_N2_L3_1_macs14_MACS_wiggle_cat.wig.gz	Overlap on chrIII between items starting at 4059723 and 4059732.Please remove overlaps and try again
+DPY-27	ftp://data.modencode.org/all_files/cele-interpreted-1/3571_seq-JL00001_DPY27_N2_L3_2_macs14_MACS_wiggle_cat.wig.gz	Overlap on chrIII between items starting at 4059723 and 4059732. Please remove overlaps and try again
+h4k20me1	Overlap on I between items starting at 3695 and 3707.
+
